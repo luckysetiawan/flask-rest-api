@@ -1,2 +1,5 @@
-#virtual environment
+# virtual environment
 flask-rest-api
+
+# database
+database.db
